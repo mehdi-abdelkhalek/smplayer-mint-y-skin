@@ -1,0 +1,5 @@
+Just copy themes/Mint-Y to SMPlayer's configuration directory.
+
+You can open the configuration directory directly from SMPlayer using the Help menu.
+
+Restart SMPlayer for it to detect new skins.
